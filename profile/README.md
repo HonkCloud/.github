@@ -1,6 +1,5 @@
 ## Hi there 👋
-We're HonkCloud, the makers of the modified Pterodactyl Panel - HonkPanel.<br>
-We also focus on selling Cloud (VPS) and Game servers for $$$.<br>
+We're a brand created to sell some VPS for that fat stack of $$$.
 Created with 💖 by Material Global.
 
 ## Members 👥
