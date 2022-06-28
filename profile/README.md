@@ -1,5 +1,5 @@
 ## Hi there 👋
-We're a brand created to sell some VPS for that fat stack of $$$.
+We're a brand created to sell some VPS for that fat stack of $$$.<br/>
 Created with 💖 by Material Global.
 
 ## Members 👥
